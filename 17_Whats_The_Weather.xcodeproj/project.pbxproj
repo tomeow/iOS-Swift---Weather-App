@@ -12,6 +12,7 @@
 		3B4A470F1D1B6E720049769A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B4A470D1D1B6E720049769A /* Main.storyboard */; };
 		3B4A47111D1B6E720049769A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B4A47101D1B6E720049769A /* Assets.xcassets */; };
 		3B4A47141D1B6E720049769A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B4A47121D1B6E720049769A /* LaunchScreen.storyboard */; };
+		3B4A471C1D1B6EAE0049769A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B4A471B1D1B6EAE0049769A /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3B4A47101D1B6E720049769A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B4A47131D1B6E720049769A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B4A47151D1B6E720049769A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B4A471B1D1B6EAE0049769A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				3B4A47091D1B6E720049769A /* AppDelegate.swift */,
+				3B4A471B1D1B6EAE0049769A /* background.png */,
 				3B4A470B1D1B6E720049769A /* ViewController.swift */,
 				3B4A470D1D1B6E720049769A /* Main.storyboard */,
 				3B4A47101D1B6E720049769A /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B4A47141D1B6E720049769A /* LaunchScreen.storyboard in Resources */,
+				3B4A471C1D1B6EAE0049769A /* background.png in Resources */,
 				3B4A47111D1B6E720049769A /* Assets.xcassets in Resources */,
 				3B4A470F1D1B6E720049769A /* Main.storyboard in Resources */,
 			);
